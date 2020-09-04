@@ -27,7 +27,7 @@
         "mini-css-extract-plugin": "^0.8.0",
         "moment": "^2.24.0",
         "moment-locales-webpack-plugin": "^1.0.7",
-        "node-sass": "^4.11.0",
+        "node-sass": "^4.13.1",
         "normalize.css": "7.0.0",
         "numeral": "^2.0.6",
         "react": "^16.8.3",
